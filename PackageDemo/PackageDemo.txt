@@ -1,0 +1,16 @@
+"header": {
+        "name": "",
+        "timestamp": "",
+        "origin": {
+            "cluster": "do86",
+            "tenantId": "408",
+            "environment": "development"
+        },
+        "packageSkill": {
+            "mediaTypeId": 4,
+            "skillName": "ArielJS",
+            "isOutbound": true,
+            "campaignId": 1041
+        }
+        resources: []
+    }
