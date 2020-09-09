@@ -1,0 +1,48 @@
+{
+    "header": {
+        "name": "PackageDemo",
+        "timestamp": "",
+        "origin": {
+            "cluster": "do86",
+            "tenantId": "408",
+            "environment": "development"
+        }
+    },
+    "resources": [
+        {
+            "id": "a584d21096d9664b43c364a144ccf5990aa76fec",
+            "added": "manually",
+            "type": "skill",
+            "content": {
+                "mediaTypeId": 4,
+                "skillName": "ArielJS",
+                "isOutbound": true,
+                "campaignId": 1041
+                }
+        },
+        {
+            "id": "a280d21096d9664b43c364a144ccf5990aa76fec",
+            "added": "manually",
+            "type": "prompt",
+            "path": "PackageDemo/1502784.wav"
+        },
+        {
+            "id": "710f30d026d42ab69c42397ff510e714122269af",
+            "added": "manually",
+            "type": "script",
+            "path": "PackageDemo/ScriptA.XML"
+        },
+        {
+            "id": "7086e86327a26ec09a28ee4edb4c1e94479c1f1f",
+            "added": "manually",
+            "type": "script",
+            "path": "PackageDemo/ScriptB.XML"
+        },
+        {
+            "id": "20163633a8dea02705863d4c4ef4d5e62157bb4a",
+            "added": "manually",
+            "type": "folder",
+            "path": "PackageDemo/manifest.txt"
+        }
+    ]
+}
