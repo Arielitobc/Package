@@ -5,12 +5,19 @@
             "cluster": "do86",
             "tenantId": "408",
             "environment": "development"
-        },
-        "packageSkill": {
+        }
+        resources: [
+        {
+            "id": "1564",
+            "iid": 456,
+            "added": "manually",
+            "type": "skill",
+            "content": {
             "mediaTypeId": 4,
             "skillName": "ArielJS",
             "isOutbound": true,
             "campaignId": 1041
         }
-        resources: []
+        }
+        ]
     }
