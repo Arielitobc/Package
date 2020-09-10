@@ -1,1 +1,37 @@
-
+{
+    "header": {
+        "name": "Cocacola",
+        "timestamp": "",
+        "origin": {
+            "cluster": "do86",
+            "tenantId": "408",
+            "environment": "development"
+        }
+    },
+    "resources": [
+        {
+            "id": "a280d21096d9664b43c364a144ccf5990aa76fec",
+            "added": "manually",
+            "type": "prompt",
+            "path": "Cocacola/1502784.wav"
+        },
+        {
+            "id": "fae677906364261a74cb4af0c87907d4ebeb55ae",
+            "added": "manually",
+            "type": "script",
+            "path": "Cocacola/Agent.XML"
+        },
+        {
+            "id": "84c679f27bf2140e0934717b784e570a3ad2533a",
+            "added": "manually",
+            "type": "script",
+            "path": "Cocacola/PhoneCall.XML"
+        },
+        {
+            "id": "a584d21096d9664b43c364a144ccf5990aa76fec",
+            "iid": 45,
+            "added": "manually",
+            "type": "skill"
+        }
+    ]
+}
